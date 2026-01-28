@@ -37,11 +37,20 @@ Python • Pandas • NumPy • Scikit‑learn • Matplotlib • Seaborn • PC
 
 ### Identified Customer Segments
 
-- **VIP / Premium Customers** — very recent, very frequent, extremely high spenders  
-- **Loyal High‑Value Customers** — regular buyers with strong revenue  
-- **Potential Loyalists** — good spenders but inactive recently  
-- **Occasional Buyers** — low frequency and low spend  
-- **At‑Risk Customers** — long inactivity and low lifetime value  
+- **Cluster 4 - VIP / Premium Customers**  
+----> Very recent, very frequent, extremely high spenders
+  
+- **Cluster 1 - Loyal High‑Value Customers**  
+----> Regular buyers with strong revenue    
+
+- **Cluster 2 - Potential Loyalists**  
+----> Good spenders but inactive recently  
+
+- **Cluster 0 - Occasional Buyers**
+----> Low frequency and low spend  
+
+- **Cluster 3 - At‑Risk Customers**  
+----> Long inactivity and low lifetime value  
 
 These segments provide a strong foundation for retention, reactivation, and loyalty programs.
 
