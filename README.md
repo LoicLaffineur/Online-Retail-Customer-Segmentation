@@ -46,7 +46,7 @@ Python • Pandas • NumPy • Scikit‑learn • Matplotlib • Seaborn • PC
 - **Cluster 2 - Potential Loyalists**  
 ----> Good spenders but inactive recently  
 
-- **Cluster 0 - Occasional Buyers**
+- **Cluster 0 - Occasional Buyers**  
 ----> Low frequency and low spend  
 
 - **Cluster 3 - At‑Risk Customers**  
