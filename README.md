@@ -83,10 +83,6 @@ Feel free to reach out if you want to apply this to your business.
 
 <img width="1196" height="1589" alt="radar_clusters" src="visuals/radar_clusters.png" />
 
-### RFM Distributions
-
-<img width="790" height="1490" alt="rfm_distribution" src="visuals/rfm_distribution.png" />
-
 ### Top 10 Products by Revenue (EDA)
 
 <img width="1110" height="701" alt="top_10_products" src="visuals/top_10_products.png" />
