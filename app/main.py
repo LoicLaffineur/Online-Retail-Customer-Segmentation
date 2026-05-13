@@ -3,7 +3,7 @@
 import streamlit as st
 import pandas as pd
 import altair as alt
-from app.functions import (
+from functions import (
     COUNTRY_METRIC_KEYS,
     COUNTRY_METRIC_LABELS,
     country_kpi_display_names,
